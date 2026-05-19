@@ -236,7 +236,7 @@ git rebase main
 ### Unstage a File
 
 ```bash
-git reset filename
+git restore --staged filename
 ```
 
 Removes a file from the staging area.
