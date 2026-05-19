@@ -1,6 +1,5 @@
 # devops-workflow-demo
 
-```markdown
 # DevOps Workflow Demo
 
 ## 📌 About This Repository
@@ -91,5 +90,5 @@ Planned enhancements for this repository:
 ## ⭐ Acknowledgment
 
 This project is created as part of continuous learning and DevOps practice.
-```
+
 
